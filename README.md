@@ -1,5 +1,7 @@
 ##PHP DocBlock Checker
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7f483e40-892a-4245-8e54-06f830ff83c4/mini.png)](https://insight.sensiolabs.com/projects/7f483e40-892a-4245-8e54-06f830ff83c4)
+
 A basic CLI (Command Line Interface) tool to verify if your PHP classes have DocBlocks.
 
 ###What it does?
@@ -12,10 +14,10 @@ This tool can:
  - It doesn't check for the integrity of your DocBlocks **at this time**.
 
 ###What does it requires?
-Please check `composer.json` for details.
+Please check [`composer.json`](composer.json) for details.
 
 ###Where is the documentation?
-Please check `docs.md` for further information on how to use this tool.
+Please check [`docs.md`](docs.md) for further information on how to use this tool.
 
 ###And, in case I want some references?
 

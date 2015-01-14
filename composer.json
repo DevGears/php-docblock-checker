@@ -1,10 +1,9 @@
 {
-    "name"             : "block8/php-docblock-checker",
+    "name"             : "devdrops/php-docblock-checker",
     "description"      : "A simple tool for checking that your PHP classes and methods use docblocks.",
     "minimum-stability": "stable",
     "type"             : "library",
-    "keywords"         : ["php", "phpci", "testing", "docblock", "comment", "checker", "code quality"],
-    "homepage"         : "https://www.phptesting.org/",
+    "keywords"         : ["php", "docblock", "comment", "checker", "code quality"],
     "license"          : "BSD-2-Clause",
     "authors": [
         {
@@ -12,12 +11,14 @@
             "email"   : "dan.cryer@block8.co.uk",
             "homepage": "http://www.block8.co.uk",
             "role"    : "Developer"
+        },
+        {
+            "name"    : "Davi Marcondes Moreira",
+            "email"   : "davi.marcondes.moreira@gmail.com",
+            "homepage": "http://about.me/devdrops",
+            "role"    : "Developer"
         }
     ],
-    "support": {
-        "issues": "https://github.com/Block8/php-docblock-checker/issues",
-        "source": "https://github.com/Block8/php-docblock-checker"
-    },
     "require": {
         "php": ">=5.3.3",
         "phpunit/php-token-stream": "1.*",
